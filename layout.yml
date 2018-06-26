@@ -1,0 +1,6 @@
+# layout.yml
+bleed:
+  x: 0.25in
+  y: 0.25in
+  width: 2.5in
+  height: 3.5in
