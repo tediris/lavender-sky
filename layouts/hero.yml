@@ -1,6 +1,6 @@
 Title:
   extends: title # from hand.yml
-  font: "ChunkFive Roman 58"
+  font: ChunkFive Roman 58
   color: '#000000'
   align: center
   spacing: -15
@@ -10,7 +10,7 @@ Art:
 
 Description:
   extends: description # from hand.yml
-  font: "ChunkFive Roman 36"
+  font: ChunkFive Roman 36
   color: '#000000'
   align: center
 
@@ -23,7 +23,7 @@ Snark:
 
 Attack:
   extends: bonus1 # from hand.yml
-  font: "ChunkFive Roman 48"
+  font: ChunkFive Roman 48
   color: '#000000'
   y: += 70
 AttackIcon:
